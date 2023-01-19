@@ -1,0 +1,33 @@
+.fondo{
+    background-image: url(/images/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000000;
+    text-align: center;
+}
+.titulo{
+    font-size: 60px;
+    font-weight: bold;
+}
+input{
+    border-color: #000000;
+    border-radius: 20px;
+    border-style: outset;
+    size: 40px;
+    font-size: x-large;
+
+
+}
+.button{
+    color: white;
+    background-color: #000000;
+    letter-spacing: 2px;
+    font-weight: 700;
+    padding: 4px;
+    
+}
+.button:hover{
+    background-color: cadetblue;
+    cursor: pointer;
+    
+}
